@@ -1,4 +1,5 @@
-# -*- cfrom setuphelpers import *
+# -*- coding: utf-8 -*-
+from setuphelpers import *
 import os
 
 def install():
